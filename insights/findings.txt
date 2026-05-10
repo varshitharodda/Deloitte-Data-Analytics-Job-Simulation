@@ -1,0 +1,7 @@
+Key Findings:
+
+1. Equipment failure caused the highest machine downtime.
+2. Downtime increased significantly between June and August.
+3. Morning shift recorded the highest downtime hours.
+4. Machines 1 and 2 contributed most to operational delays.
+5. Gender pay equality analysis identified both above-average and below-average salary groups using Excel conditional logic.
