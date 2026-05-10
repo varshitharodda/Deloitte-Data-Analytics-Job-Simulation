@@ -71,10 +71,7 @@ Deloitte-Data-Analytics-Job-Simulation/
 ├── README.md
 ├── certificate/
 │   └── Deloitte_Certificate.pdf
-├── screenshots/
 │   └── dashboard.png
-├── data/
-│   └── sample_dataset.xlsx
 └── insights/
     └── findings.txt
 ```
@@ -104,9 +101,8 @@ Successfully completed the Deloitte Data Analytics Job Simulation through Forage
 ## 👩‍💻 Author
 **Varshitha Rodda**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
+- GitHub: https://github.com/varshitharodda
+- LinkedIn:https://www.linkedin.com/in/varshitha-rodda-b0bb58329?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMeAiCqiHSh2r3VKE4zxgrw%3D%3D
 ---
 
 # ⭐ Acknowledgement
